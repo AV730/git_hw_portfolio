@@ -7,4 +7,4 @@
 
 ## Фото
 
-![](http://ussr-kruto.ru/wp-content/uploads/2012/11/511.jpg)
+![](https://raw.githubusercontent.com/AV730/git_hw_portfolio/main/img/slon.jpg)
